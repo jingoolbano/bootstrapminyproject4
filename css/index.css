@@ -1,0 +1,30 @@
+html {
+  font-size: 100%;
+}
+
+body, html {
+  font-family: 'Vazir', sans-serif;
+}
+
+.navbar-nav ul li a:hover {
+  -webkit-transform: scale(1.1, 1.1);
+          transform: scale(1.1, 1.1);
+  background-color: unset !important;
+}
+
+.container p {
+  font-weight: 300;
+}
+
+.box-devider {
+  margin: 5rem 0;
+  -webkit-margin-before: 0.5em;
+          margin-block-start: 0.5em;
+  -webkit-margin-after: 0.5em;
+          margin-block-end: 0.5em;
+  -webkit-margin-start: auto;
+          margin-inline-start: auto;
+  -webkit-margin-end: auto;
+          margin-inline-end: auto;
+}
+/*# sourceMappingURL=index.css.map */
